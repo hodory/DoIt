@@ -3,7 +3,7 @@
     "dependencies": [
         {
             "name": "twikoo",
-            "version": "1.6.17",
+            "version": "1.6.18",
             "files": [
                 {
                     "remote": "dist/twikoo.all.min.js",
@@ -17,7 +17,7 @@
         },
         {
             "name": "@waline/client",
-            "version": "2.15.5",
+            "version": "2.15.7",
             "files": [
                 {
                     "remote": "dist/waline.css",
@@ -71,7 +71,7 @@
         },
         {
             "name": "artalk",
-            "version": "2.5.5",
+            "version": "2.6.0",
             "files": [
                 {
                     "remote": "dist/Artalk.js",
